@@ -1,3 +1,5 @@
+Official repo for the article ["Efficient and scalable reinforcement learning via Hypermodel"](https://richardli.xyz).
+
 # Installation
 ```
 cd HyperFQI
